@@ -8,7 +8,7 @@ package com.mycompany.ccalculadora;
 import java.awt.Cursor;
 import java.awt.Font;
 import java.awt.event.ActionListener;           //Entorno_Desarrollo_04
-import java.awt.event.ItemEvent;                //JavierLanauGomez  Ministro1#
+import java.awt.event.ItemEvent;              
 import java.util.function.Consumer;     //https://github.com/JavierLanauGomez/Entorno_Desarrollo_04.git
 import java.util.regex.Pattern;
 import java.awt.Color;
